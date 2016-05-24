@@ -1,0 +1,111 @@
+/*background*/
+.conteiner{
+	width: 1000px;
+	margin: 0 auto;
+}
+/*header*/
+header{
+	background-color: #3f4142;
+	padding: 28px 0 30px 0;
+}
+.header-box{
+	height: 38px;
+}
+.logo{
+	padding-top: 1px;
+	float: left;
+}
+.order{
+	background-image: url(../img/buttom_yellow.png);
+	background-repeat: repeat-x;
+	width: 250px;
+	height: 100%;
+	float: left;
+	margin-left: 216px;
+	text-align: center;
+}
+.order span{
+	line-height: 38px;
+	width: 100%;
+	text-align: center;
+	font-size: 18px;
+	color: white;
+	font-family: 'tahoma';
+	text-shadow: 1px 1px 1px black;
+}
+.call{
+	float: right;
+	height: 100%;
+	background: url(../img/call.png) no-repeat;
+	background-position: left center;
+	padding-left: 29px;
+	text-align: center;
+	font-family: 'tahoma';
+}
+
+.call p:first-child{
+	font-size: 14px;
+	color: white;
+	text-decoration: underline;
+	padding-bottom: 7px;
+}
+.call p:last-child{
+	font-size: 18px;
+	color: #f3af00;
+	}
+/*section brown*/
+.brown{
+	background-color: #949ba3;
+	padding-top: 24px;
+	font-family: 'times new roman';
+	color: white;
+	text-align: center;
+}
+.brown p:first-child{
+	font-size: 48px;
+	padding-bottom: 15px;
+}
+.brown p:last-child{
+	font-size: 30px;
+	padding-bottom: 90px;
+}
+/*section-buldozer*/
+.pic-buld{
+	color: #f9f9f9;
+	height: 345px;
+}
+.buldozer{
+	background: url(../img/picture1.jpg) no-repeat;
+	width: 100%;
+	height: 341px;
+	position: relative;
+	top: -20px;
+	box-shadow: 0px 0px 10px black;
+}
+form{
+	float: right;
+	width: 250px;
+	background-color: rgba(0,0,0,0.5);
+	text-align: center;
+	padding-top: 40px;
+}
+form p:first-child{
+	font-family: 'verdana';
+	font-size: 24px;
+	color: white;
+	padding-bottom: 13px;
+}
+form p:last-child{
+	font-family: 'verdana';
+	font-size: 16px;
+	line-height: 24px;
+	color: white;
+	padding-bottom: 28px;
+}
+
+/*child #2*/
+
+/*why we*/
+.sprite{
+	background-color: #d1d1d1;
+}
